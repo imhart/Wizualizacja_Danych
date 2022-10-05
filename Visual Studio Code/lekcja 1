@@ -51,25 +51,27 @@ kropiak@matman.uwm.edu.pl
 
 L1: 
 
+ctrl+c cofanie wierszy poleceń
+
  git init    
 
- git remote add origin https://github.com/imhart/WWW.git   
+git remote add origin https://github.com/imhart/WWW.git   
  
-  git config --local user.name "imhart"   
+ git config --local user.name "imhart"   
   
-  git add .   
+ git add .   
    
-  git status                              
+ git status                              
    
-    git commit -m "first commit"    
+ git commit -m "first commit"    
     
-    git checkout    
+ git checkout    
    
-    git push -u origin main    
+ git push -u origin main    
     
-     git push -u origin master   
+ git push -u origin master   
      
-      python manage.py runserver   
+ python manage.py runserver   
       
       
       
