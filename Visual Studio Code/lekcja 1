@@ -46,3 +46,37 @@ https://github.com/kropiak/app_www
  mail 
 kropiak@matman.uwm.edu.pl
 
+
+
+
+L1: 
+
+ git init    
+
+ git remote add origin https://github.com/imhart/WWW.git   
+ 
+  git config --local user.name "imhart"   
+  
+  git add .   
+   
+  git status                              
+   
+    git commit -m "first commit"    
+    
+    git checkout    
+   
+    git push -u origin main    
+    
+     git push -u origin master   
+     
+      python manage.py runserver   
+      
+      
+      
+      
+      
+      
+     
+   
+   
+
