@@ -74,6 +74,8 @@ git remote add origin https://github.com/imhart/WWW.git
  python manage.py runserver   
       
       
+      używać "PostgreSQL"
+      
       
       
       
